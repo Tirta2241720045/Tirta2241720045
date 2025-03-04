@@ -1,7 +1,7 @@
 <img src="rochmen_banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Rochmen, a Indonesian IT Support 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 6th-semester student at Politeknik Negeri Malang, pursuing a degree in Information Technology.<br>👨🏼‍💻 Currently interning at PT PAL Indonesia, exploring thesis topics related to technology advancement in the company. <br>🔍 Passionate about web development, machine learning, and IT solutions.
+🛜 currently working on my own [webpage](https://tirta2241720045.github.io/RochmenTheITStaf.github.io/)<br>👨🏼‍🎓 6th-semester student at Politeknik Negeri Malang, pursuing a degree in Information Technology.<br>👨🏼‍💻 Currently interning at PT PAL Indonesia, exploring thesis topics related to technology advancement in the company. <br>🔍 Passionate about web development, machine learning, and IT solutions.
 
 
 # 💻 Tech Stack:
